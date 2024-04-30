@@ -18,3 +18,18 @@ body{
     border-radius: 15px;
     text-align: center;
 }
+#photo{
+    height: 50%;
+    width: 100%;
+    object-fit: cover;
+    object-position: top;
+    border-radius: 15px;
+}
+#fallow{
+    background-color: aquamarine;
+    cursor: pointer;
+    padding: 10px;
+    width: 150px;
+    border-radius: 10px;
+    border: none;
+}
